@@ -1,6 +1,6 @@
 # WELCOME TO THE WORLD OF JAVASCRIPT /NODE.JS & JSON ... FULL COURSE
 Resource : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures - Brief summary of data type and data structures .
-
+Resource : https://v0.dev/
 ##  JAVASCRIPT VARIABLES 
 1 ) How do we save information to a variable through use of assignment expressions .
 
