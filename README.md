@@ -1,6 +1,6 @@
 # WELCOME TO THE WORLD OF JAVASCRIPT /NODE.JS & JSON ... FULL COURSE
 Resource : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures - Brief summary of data type and data structures .
-Resource : https://v0.dev/
+Resource : https://v0.dev/exit
 ##  JAVASCRIPT VARIABLES 
 1 ) How do we save information to a variable through use of assignment expressions .
 
@@ -41,5 +41,8 @@ NB: Don't use var ... N/A
 
 5 ) Main advantage of let to var : You cannot redeclare the ame variable twice .[Uncaught SyntaxError: Identifier 'him/ or any other name given to our variable' has already been declared]
 
-6 )
+6 ) Main difference between const and let : const is immutable(cannot be re declared nor re assgined) while let is mutable . [Uncaught TypeError: Assignment to constant variable.]
 
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#variables (Understanding JAVASCRIPT)
+
+- Javascript - this is a powerful tool which add interactivity to one program eg when clicking a button or data entry form .
