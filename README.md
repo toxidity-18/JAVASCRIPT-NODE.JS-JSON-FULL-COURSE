@@ -46,3 +46,15 @@ NB: Don't use var ... N/A
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#variables (Understanding JAVASCRIPT)
 
 - Javascript - this is a powerful tool which add interactivity to one program eg when clicking a button or data entry form .
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript[FULL TUTORIAL ON JS ].
+- [REMEMBER TO GO THROUGH ALL THIS :https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75].
+
+
+### How to concatenate strings 
+- The moment a test suite tells you not defined it mean you ought to initialize it as a variabe .
+- Assertionerror this is whereby javascript expect a certain value in a variable and yet Js does not know what that variable is .
+
+- Meaning of the word concatenate or interpolate .
+    :Concatenate this means adding two or more strings to one another [+ operator ] [line 16 to 17 ]
+    :Concatenatin value of a variable 
+    :When performing string interpolation we add a value in the middle of a string using template literal 
