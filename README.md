@@ -41,5 +41,5 @@ NB: Don't use var ... N/A
 
 5 ) Main advantage of let to var : You cannot redeclare the ame variable twice .[Uncaught SyntaxError: Identifier 'him/ or any other name given to our variable' has already been declared]
 
-6 )
+## Comaprision in JavaScript
 
