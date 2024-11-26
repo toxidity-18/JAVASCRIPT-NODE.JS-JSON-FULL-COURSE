@@ -41,7 +41,7 @@ NB: Don't use var ... N/A
 
 5 ) Main advantage of let to var : You cannot redeclare the ame variable twice .[Uncaught SyntaxError: Identifier 'him/ or any other name given to our variable' has already been declared]
 
-## Comaprision in JavaScript
+## Comparision in JavaScript
 
 1 ) To identify equality operators and compare numbers with relational operators .
 2 ) The four main example of equality operators are :
