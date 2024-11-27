@@ -19,7 +19,7 @@
 - Strict Equality Operator ( === ) does not perform type conversion and only return true if both the value and data type are the same .
 - Strict Inequality Operator (!==)will only return TRUE if the value and data type are not the same .
   
-### LOOSE EQUALITY AND INEQUALITY OPERATOR .{14-}
+### LOOSE EQUALITY AND INEQUALITY OPERATOR .{14-28}
 
 - What is TYPE CONVERSION ? and how it relates to loose equality operators .
 - Loose equality operator (==) returns true if the value are equal or if it can perform a type conversion .
