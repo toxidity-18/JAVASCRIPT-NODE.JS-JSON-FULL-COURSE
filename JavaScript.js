@@ -26,3 +26,14 @@ null != undefined // false
 true != 1 // false
 9000 != 90001 // true
 // Conclusion is that it returns true if the values are NOT the same
+
+// Compare with relational operators [use node]
+88 > 9 //true 
+9 < 88 // true
+9 <= 9 // true
+88 >= 88 // true
+// Conclusion , just understand the meaning of each symbols .
+// Testing the logic of string conversion 
+88 <= "88" // true 
+88 <= "hello" // false
+// Conclusion string type conversion take place if the alue within the string is a number .
