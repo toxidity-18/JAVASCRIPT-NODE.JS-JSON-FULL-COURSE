@@ -17,3 +17,4 @@
 
 - What is TYPE CONVERSION ? and how it relates to strict equality operators .
 - Strict Equality Operator ( === ) does not perform type conversion and only return true if both the value and data type are the same .
+- Strict Inequality Operator (!==)will only return TRUE if the value and data type are not the same .
