@@ -1,0 +1,23 @@
+Additional.txt
+	
+Terence Ouma
+11:58 AM
+
+
+
+
+
+
+
+@here 
+Authentication and Authorization
+Dockerize 
+Figma
+Super User and User feature 
+GitHub Actions
+PWA
+API documentation check SwaggerUI for this
+Db.diagram drawing
+Social Authentication 
+PowerPoint done by Thursday 
+
