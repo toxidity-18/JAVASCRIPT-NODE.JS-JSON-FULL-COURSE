@@ -40,3 +40,5 @@
 
 NB : Type conversion when comparing non-numbers to numbers 
    -when comparing a string with a number but the string ought to contain a value of a number .{36-39}
+
+   ## DONT DITTIRE ... !
