@@ -37,3 +37,18 @@ true != 1 // false
 88 <= "88" // true 
 88 <= "hello" // false
 // Conclusion string type conversion take place if the alue within the string is a number .
+
+
+// Examples of JS Expressions 
+0 ;
+1 + 2 ;
+'hello' + 'world' ;
+let man = 'john' ; // assignment of value to a variable
+man ; // accessing the value of a variable or lookup expression .
+// Coclusion all the above are examples of JS expressions .
+
+//Block statements 
+{
+    let x = 10 ;
+    let y = 20 ;// etc ... place any kind of js statements i.e condition loops or functions 
+}
