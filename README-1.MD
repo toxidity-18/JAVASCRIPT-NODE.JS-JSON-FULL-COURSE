@@ -51,3 +51,4 @@ NB: Don't use var ... N/A
     -loose inequality operator ( != )
 3 ) What is the main difference between strict and loose equality operators .
 # Am back in that mode again .
+## Remember why and what brought you here in the first  place NO MATTER WHAT YOU MUST BE AND SURPASS YOUR CURRENT SKILL LEVEL .
