@@ -18,7 +18,7 @@ let pi ;
 pi = 3.14159 ;
 pi ;// Retrieving the value of the variable .
 pi = 3.14 ; //changing the value of  a variable .
-pi ;
+pi 
 
 // Advantange of let to var
 // let  preOccupation = "intern";
