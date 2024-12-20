@@ -32,4 +32,32 @@
 - To retrieve code ln 19 ;
 - To change code ln 20;
 ## When to use const,let or var .
+## LET
 _ I.F : Below yr 2014 variables were declare with just one single keyword which is [var].
+- The main advantage of let over var is that let throws an error when we redeclare the same variable twice . code ln
+   24 to 25 
+
+    i.e 
+    > let preOccupation = "intern"
+    undefined
+    > let preOccupation = "software devloper"
+    Uncaught SyntaxError: Identifier 'preOccupation' has already been declared
+    > 
+    
+- Another benefit is that we can re-assgin variable declarde with the let keyword . code ln 27 to 28 .
+## CONST 
+- NB : This ought to be the to go option for variable declaration .
+- The why is because we cannot re-declare nor re-assign variable value or name . code ln 33 to 35 
+    
+    i.e 
+    > const salary = 95000;
+    undefined
+    > salary = 100000;
+    Uncaught TypeError: Assignment to constant variable.
+    > 
+
+#### RESOURCES :
+MDN :[text](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#Variables)
+MDN :[let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+MDN:[const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
+W3C:[jshistory](https://en.wikipedia.org/wiki/JavaScript#History)
