@@ -20,3 +20,16 @@ pi ;// Retrieving the value of the variable .
 pi = 3.14 ; //changing the value of  a variable .
 pi ;
 
+// Advantange of let to var
+// let  preOccupation = "intern";
+// let preOccupation = "Software Developer";
+
+// Another benefit o flt reserved keyword 
+let preOccupation = "intern";
+preOccupation = "Software Developer";
+preOccupation ;
+
+// Using the to go option i.e const 
+const salary = 95000;
+salary = 100000 ;
+salary ;
