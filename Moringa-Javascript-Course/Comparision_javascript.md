@@ -58,5 +58,7 @@
  [CONERTING STRINGS TO NUMBERS ](https://gomakethings.com/converting-strings-to-numbers-with-vanilla-javascript/)
 
  [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators)
- 
+
 [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)
+
+[JAVASCRIPTEQUALITYTABLE](https://dorey.github.io/JavaScript-Equality-Table/)
