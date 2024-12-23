@@ -56,3 +56,26 @@ function goal(one,two,three){
 const result = goal ('intern','trader','investing');
 console.log(result);
 
+// function continued ...
+// defining a function with function declaration 
+function razzle(){
+    console.log("You\'ve been razzled")
+};
+// function being invoked 
+razzle();
+
+// invoke then declare ...
+missed();
+console.log(results);
+// function declaration .
+function missed(ngwee){
+    console.log(`Yes i ${ngwee} alot`);
+    const results = missed( 'I missed you alot')
+};
+
+// showing how hoisting is done .
+aim();// hoisting 
+function ain(one){
+    console.log(`I ${one} aiming alot`);
+}
+const Result = ain('am');

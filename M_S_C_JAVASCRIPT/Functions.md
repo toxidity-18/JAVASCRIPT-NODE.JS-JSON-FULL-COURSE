@@ -11,6 +11,8 @@
 
 [Function_Declaration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function)
 
+[MDN_Docs_Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+
 ## Introduction to functions in javascript : 
 - When we wrap code it more easier to re-use and help managecontrol flow execution 
 - This is the most important unit of your code , it groups related-code together and make it easier to reuse and debug and improve .
@@ -49,3 +51,16 @@
 - How to shorten or generalize with use of parameter code ln 38 to 44
 ## Demo function as return values  ...
 - If you visit the ATM you exepct money paper money ... likewise with javascript which return value from a function .
+
+## DEFINING A FUNCTION WITH USE OF FUNCTION DECLARATION ...
+- Check on code ln 61 to 64 .
+   
+   i.e Depth in detail 
+   - The pointer 'razzle' is the function name which we use to invoke or call the function .
+   - To invoke the function we add '(' after the function name .Code ln 65 to 67
+   - NB : Invoking can be done first then declare the function . Code ln 68 to 74
+  ## Define the term hoisting ...
+  - Js ability to invoke a function before declaring the function .
+  - Look at code ln 77 to 81
+  ## Define function expression ...
+  
