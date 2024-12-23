@@ -67,3 +67,14 @@ const height = 1.79 ;
 let tall ;
 height >= 1.79 ?(tall = true) : (tall = false) ;
 // true ....
+
+//other way 
+const primaryLanguage = "Javacript";z
+ const Budget = intern >= 25000 ? "Has a potential to invest and make more " : "Below investment rate"
+ Budget ;
+ console.log(Budget);
+ // output bcomes true ...
+ const student = "Mark";
+ const studentRecords = student === "Mark" ? "Student is a coochie lover": "Students is a alterboy";
+ studentRecords ;
+ console.log(studentRecords)
